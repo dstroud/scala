@@ -1,5 +1,5 @@
 # scala
-Scala .scl files for common Monome Teletype scale ops (N.CS etc…)
+Scala .scl files for common Monome Teletype scale ops (N.CS etc…). The number in the filename corresponds to the 0-indexed chord scale "s" used in these ops.
 
 | Filename            | Source                                                                                                                                                                                                                                                                               |
 |---------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
